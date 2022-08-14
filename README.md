@@ -1,4 +1,4 @@
-O projeto em java.
+Projeto em java.
 
-O intuito desse projeto é  desenvolver o entendimento sobre orientação em java.
+O intuito desse projeto é  desenvolver o entendimento sobre orientação de objeto em java.
  
